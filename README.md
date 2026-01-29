@@ -7,6 +7,7 @@ A collection of quick, portable utility scripts for everyday tasks.
 | Script | Description |
 |--------|-------------|
 | [dsv2md](./dsv2md/) | Convert delimiter-separated values to Markdown tables |
+| [portal](./portal/) | Quick switching between oh-my-opencode model providers |
 
 ## Philosophy
 
